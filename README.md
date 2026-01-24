@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Xatun+Abdullayeva;" alt="Static Pink Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Xatun+Abdullayeva;" alt="Static Pink Header" />
 </p>
 
 ### Mobile Developer | Flutter & Dart Enthusiast
