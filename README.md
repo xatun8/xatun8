@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Hi%20I'm%20Xatun%20!&fontSize=70)
+# <p align="center">![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Hi%20I'm%20Xatun%20!&fontSize=70)</p>
+
 # Hi there, I'm Xatun Abdullayeva! 👋
 ### Mobile Developer | Flutter & Dart Enthusiast
 
