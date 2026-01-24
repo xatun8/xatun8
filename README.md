@@ -1,6 +1,7 @@
-# <p align="center">![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Hi%20I'm%20Xatun%20!&fontSize=70)</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Xatun+Abdullayeva;" alt="Static Pink Header" />
+</p>
 
-# Hi there, I'm Xatun Abdullayeva! 👋
 ### Mobile Developer | Flutter & Dart Enthusiast
 
 <p align="left">
