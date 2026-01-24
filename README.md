@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Xatun+Abdullayeva;" alt="Static Pink Header" />
 </p>
 
-### Mobile Developer | Flutter & Dart Enthusiast
+### 📱 Mobile Developer | Flutter & Dart Enthusiast
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=xatun8&label=Profile%20views&color=0e75b6&style=flat" alt="xatun8" />
@@ -11,21 +11,39 @@
 ---
 
 ## 🚀 About Me
-Mən innovativ və istifadəçi dostu mobil tətbiqlər hazırlamağa həvəsli bir **Mobile Developer**-əm. Hazırda əsas fokusum **Flutter** və **Dart** texnologiyaları ilə yüksək performanslı tətbiqlər qurmaqdır.
+I am a passionate **Mobile Developer** dedicated to building innovative and user-friendly mobile applications. Currently, my primary focus is on developing high-performance apps using **Flutter** and **Dart**.
 
-- 🔭 Hazırda **Mobile Architecture** üzərində layihələr hazırlayıram.
-- 🌱 Yeni texnologiyalar və **Clean Architecture** öyrənməyə davam edirəm.
-- 💬 Məndən **Dart, Flutter və UI/UX** haqqında soruşa bilərsiniz.
-- 📫 Mənə buradan çatın: **[LinkedIn](https://www.linkedin.com/in/xatun-abdullayeva)**
+* 🔭 I am currently working on projects involving **Mobile Architecture**.
+* 🌱 I am continuously learning new technologies and diving deeper into **Clean Architecture**.
+* 💬 Feel free to ask me about **Dart, Flutter, and UI/UX**.
 
 ---
 
 ## 🛠 Tech Stack
+### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+</p>
+
+### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>
+</p>
+
+### 🔧 Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/>
 </p>
 
 ---
@@ -34,7 +52,6 @@ Mən innovativ və istifadəçi dostu mobil tətbiqlər hazırlamağa həvəsli 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xatun8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xatun8&layout=compact&theme=tokyonight&hide_border=true" />
-  
 </p>
 
 <p align="center">
@@ -43,11 +60,9 @@ Mən innovativ və istifadəçi dostu mobil tətbiqlər hazırlamağa həvəsli 
 
 ---
 
-## 🏆 My Projects
-* **[Dart Logic Foundations](https://github.com/xatun8/dart-logic-foundations)** - OOP və təməl proqramlaşdırma məntiqi layihələri.
-* *Digər layihələrin bura əlavə olunacaq...*
-
----
-<p align="center">
-  "The best way to predict the future is to create it." - Abraham Lincoln
+## 🔗 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/xatun-abdullayeva" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:xatunabdullayeva.coder@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
