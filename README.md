@@ -46,7 +46,7 @@ I am a passionate **Mobile Developer** dedicated to building innovative and user
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -58,7 +58,7 @@ I am a passionate **Mobile Developer** dedicated to building innovative and user
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xatun8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+
 
 ## 🔗 Connect with Me
 <p align="left">
