@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=xatun8&label=Profile%20views&color=0e75b6&style=flat" alt="xatun8" />
 </p>
 
----
+
 
 ## 🚀 About Me
 I am a passionate **Mobile Developer** dedicated to building innovative and user-friendly mobile applications. Currently, my primary focus is on developing high-performance apps using **Flutter** and **Dart**.
@@ -17,7 +17,7 @@ I am a passionate **Mobile Developer** dedicated to building innovative and user
 * 🌱 I am continuously learning new technologies and diving deeper into **Clean Architecture**.
 * 💬 Feel free to ask me about **Dart, Flutter, and UI/UX**.
 
----
+
 
 ## 🛠 Tech Stack
 ### 💻 Languages
